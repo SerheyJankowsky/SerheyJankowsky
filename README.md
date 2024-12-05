@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 [![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
@@ -15,23 +15,23 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - ⚡ Fun fact: I read books, play the piano, and sleep with my dog!
 
-<div align="center">
+<div align="center"> -->
 
-## 💡 A Quote:
+<!-- ## 💡 A Quote:
 
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
-## 💻 My Tech Stack:
+<!-- ## 💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev) -->
 
-## 📖 Read My Blogs:
+<!-- ## 📖 Read My Blogs:
 
 <p>
     <a target="_blank"href="https://dev.to/kshyun28"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
     <a target="_blank"href="https://kshyun28.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
     <a target="_blank"href="https://medium.com/@kshyun28"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
-</p>
+</p> -->
 
 ## 🏆 My Stats:
 
@@ -40,9 +40,9 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshyun28&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
-## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d):
+<!-- ## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d): -->
 
-<p>
+<!-- <p>
     <a target="_blank"href="https://www.gitpoap.io/gp/893"><img height=175 alt="Taiko GitHub Contributor 2023" src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap3a-2023-taiko-contributor-2022-logo-1671723111328.png&w=750&q=75" />&nbsp;&nbsp;
     <a target="_blank"href="https://www.gitpoap.io/gp/879"><img height=175 alt="Ethereum.org GitHub Contributor 2023" src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap3a-2023-ethereumorg-contributor-2022-logo-1671568487547.png&w=750&q=75" />&nbsp;&nbsp;
     <a target="_blank"href="https://poap.gallery/event/128736"><img height=175 alt="ZK-Roller-Coaster Taiko Research Contributor" src="https://assets.poap.xyz/taiko-research-contributors-2023-logo-1685987761596.png" />&nbsp;&nbsp;
@@ -57,4 +57,4 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
-</div>
+</div> -->
